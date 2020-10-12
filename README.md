@@ -1,7 +1,7 @@
 # Rollncode
 
 1. Scripts/activate.bat 
-2.1. cd Backend/librarybackend 
-2.2. use "python manage.py runserver" 
-3.1. cd Frontend/libraryfrontend 
-3.2. use "npm run serve" 
+2. cd Backend/librarybackend 
+3. use "python manage.py runserver" 
+4. cd Frontend/libraryfrontend 
+5. use "npm run serve" 
